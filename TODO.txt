@@ -1,0 +1,7 @@
+COSE IMPORTANTI:
+1- download google-services.json
+2- download package.json
+3- npm init
+4- npm i firebase-admin
+5- npm i express
+6- npm i body-parser
